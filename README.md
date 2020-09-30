@@ -1,2 +1,2 @@
 # GFGproblems
-Geeks For Geeks prblems
+Geeks For Geeks problems list
